@@ -22,7 +22,8 @@ public class Rodolfo {
     }
 }
 ```
-[![Rodolfo Morquecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoMorquecho)](https://github.com/RodolfoMorquecho/github-readme-stats)
+[![Rodolfo Morquecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoMorquecho)](https://github.com/RodolfoMorquecho/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoMorquecho&layout=compact)](https://github.com/RodolfoMorquecho/github-readme-stats)
 <!--
 **RodolfoMorquecho/RodolfoMorquecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
