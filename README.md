@@ -15,13 +15,12 @@ public class Rodolfo {
     public String technologies = "MySQL, Vuex, Vuejs, Bootstrap, API";
     public String skills = "UX/UI Design";
     public String challenges() {
-        return "Developer Fullstack Jr - LaunchX by Microsoft (check)\n"+
+        return "Program: Developer Fullstack Jr - LaunchX by Microsoft (check)\n"+
                 "Hackaton: HackTheOcean (check) \n"+
                 "Microsoft AZ-900 Certification (in progress)";
     }
 }
-### About me
-
+```
 
 <!--
 **RodolfoMorquecho/RodolfoMorquecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
