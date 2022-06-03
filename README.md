@@ -12,16 +12,17 @@ public class Rodolfo {
     public String pronouns = "He/him";;
     public String code = "HTML, CSS, Javascript, Java, C, C++, Python";
     public String tools = "Azure, Git, Github, Balsamiq, Figma, Miro, Docker";
-    public String technologies = "MySQL, Vuex, Vuejs, Bootstrap, API";
+    public String technologies = "MySQL, Vuex, Vuejs, Bootstrap";
     public String skills = "UX/UI Design";
+    
     public String challenges() {
-        return "Program: Developer Fullstack Jr - LaunchX by Microsoft (check)\n"+
+        return "Program: Developer Fullstack Jr - LaunchX by Innovacción Virtual & Microsoft (check)\n"+
                 "Hackaton: HackTheOcean (check) \n"+
                 "Microsoft AZ-900 Certification (in progress)";
     }
 }
 ```
-
+[![Rodolfo Morquecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoMorquecho)](https://github.com/RodolfoMorquecho/github-readme-stats)
 <!--
 **RodolfoMorquecho/RodolfoMorquecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
