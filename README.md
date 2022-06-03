@@ -22,9 +22,16 @@ public class Rodolfo {
     }
 }
 ```
-[![Rodolfo Morquecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoMorquecho)](https://github.com/RodolfoMorquecho/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoMorquecho&layout=compact)](https://github.com/RodolfoMorquecho/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/RodolfoMorquecho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodolfoMorquecho&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoMorquecho&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
 <!--
+[![Rodolfo Morquecho's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoMorquecho)](https://github.com/RodolfoMorquecho/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoMorquecho&layout=compact)](https://github.com/RodolfoMorquecho/github-readme-stats)
+
 **RodolfoMorquecho/RodolfoMorquecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
