@@ -19,8 +19,6 @@ public class Rodolfo {
                 "Microsoft AZ-900 Certification (in progress)";
     }
 }
-```java
-
 ### About me
 
 
