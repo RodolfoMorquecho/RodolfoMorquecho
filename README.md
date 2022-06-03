@@ -3,6 +3,7 @@
 I studied Control and Automation Engineering at the "Instituto Politecnico Nacional", but I always had the interest to work as a web developer
 
 *Learning Azure Fundamentals AZ-900 at* [Innovacción Virtual & Microsoft](https://innovaccionvirtual.my.canva.site/)
+
 [![Linkedin: RodolfoMorquecho](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-morquecho-fern%C3%A1ndez/)
 
 
