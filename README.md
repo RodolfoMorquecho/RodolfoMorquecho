@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there, I'm Rodolfo Morquecho 👋
+
+I studied Control and Automation Engineering at the "Instituto Politecnico Nacional", but I always had the interest to work as a web developer
+
+*Learning Azure Fundamentals AZ-900 at* [Innovacción Virtual & Microsoft](https://innovaccionvirtual.my.canva.site/)
+[![Linkedin: RodolfoMorquecho](https://www.linkedin.com/in/rodolfo-morquecho-fern%C3%A1ndez/)
+
 
 <!--
 **RodolfoMorquecho/RodolfoMorquecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
