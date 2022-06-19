@@ -9,11 +9,11 @@ I studied Control and Automation Engineering at the "Instituto Politecnico Nacio
 ### About me
 ```java
 public class Rodolfo {
-    public String pronouns = "He/him";;
-    public String code = "HTML, CSS, Javascript, Java, C, C++, Python";
-    public String tools = "Azure, Git, Github, Balsamiq, Figma, Miro, Docker";
-    public String technologies = "MySQL, Vuex, Vuejs, Bootstrap";
-    public String skills = "UX/UI Design";
+    private String pronouns = "He/him";;
+    private String code = "HTML, CSS, Javascript, Java, C, C++, Python";
+    private String tools = "Azure, Git, Github, Balsamiq, Figma, Miro, Docker";
+    private String technologies = "MySQL, Vuex, Vuejs, Bootstrap";
+    private String skills = "UX/UI Design";
     
     public String challenges() {
         return "Program: Developer Fullstack Jr - LaunchX by Innovacción Virtual & Microsoft (check)\n"+
