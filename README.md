@@ -18,7 +18,7 @@ public class Rodolfo {
     public String challenges() {
         return "Program: Developer Fullstack Jr - LaunchX by Innovacción Virtual & Microsoft (check)\n"+
                 "Hackaton: HackTheOcean (check) \n"+
-                "Microsoft AZ-900 Certification (in progress)";
+                "Microsoft AZ-900 Certification (check)";
     }
 }
 ```
