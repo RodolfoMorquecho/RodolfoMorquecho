@@ -16,7 +16,7 @@ public class Rodolfo {
     private String skills = "UX/UI Design";
     
     public String challenges() {
-        return "Program: Developer Fullstack Jr - LaunchX by Innovacción Virtual & Microsoft (check)\n"+
+        return "Program: LaunchX by Innovacción Virtual & Microsoft (check)\n"+
                 "Hackaton: HackTheOcean (check) \n"+
                 "Microsoft AZ-900 Certification (check)";
     }
